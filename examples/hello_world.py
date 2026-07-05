@@ -9,4 +9,4 @@ that Python and the text editor are configured correctly.
 """
 
 # The line of code to run in the editor:
-print("Hello Python world!")
+print("Hello, World!")
