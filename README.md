@@ -7,7 +7,8 @@ This repository contains my personal solutions and practice code from the book *
 ## 🎯 Current Status
 > **Currently studying:** Chapter 03: Introducing Lists
 
-![Progress](https://progress-bar.dev/10/?title=Progress)
+**Progress:**
+[██████████░░░░░░░░░░] 50%
 
 ---
 
