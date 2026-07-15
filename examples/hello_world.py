@@ -1,12 +1,16 @@
 """
 Source: Python Crash Course (3rd Edition)
-Chapter: 01
-Topic: Running hello_world.py
+Chapter: 01 & 02
+Topic: Getting Started & Variables
 
 Description:
-This is the first program in the book, used to verify 
-that Python and the text editor are configured correctly.
+This file contains the initial "Hello, World!" program (Chapter 1)
+and the introduction to using variables (Chapter 2).
 """
 
-# The line of code to run in the editor:
+# Chapter 01: The "Hello, World!" program
 print("Hello, World!")
+
+# Chapter 02: Introduction to variables
+message = "Hello Python Crash Course world!"
+print(message)
