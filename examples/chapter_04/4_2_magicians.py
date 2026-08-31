@@ -15,3 +15,4 @@ for magician in magicians:
 
     # Print a personalized message for each magician.
     print(f"{magician.title()}, that was a great trick!")
+    print(f"I can't wait to see your next trick, {magician.title()}.\n")
