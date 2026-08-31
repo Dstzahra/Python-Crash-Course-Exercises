@@ -9,7 +9,7 @@ This repository contains my personal solutions and practice code from the book *
 ### 🟢 Part I: Basics
 - [x] Chapter 01: Getting Started
 - [x] Chapter 02: Variables and Simple Data Types
-- [ ] Chapter 03: Introducing Lists
+- [x] Chapter 03: Introducing Lists
 - [ ] Chapter 04: Working with Lists
 - [ ] Chapter 05: If Statements
 - [ ] Chapter 06: Dictionaries
