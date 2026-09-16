@@ -10,15 +10,23 @@ and create a separate list with the same elements.
 
 my_foods = ['pizza', 'falafel', 'carrot cake']
 
-# Copy the entire list to create a new list.
+# Copy the entire list to create a separate list.
 friend_foods = my_foods[:]
 
 # Print my favorite foods.
 print("My favorite foods are:")
-
 print(my_foods)
 
 # Print my friend's favorite foods.
 print("\nMy friend's favorite foods are:")
+print(friend_foods)
 
+# Add a new food to my list.
+print("\nMy favorite foods are:")
+my_foods.append('cannoli')
+print(my_foods)
+
+# Add a different food to my friend's list.
+print("\nMy friend's favorite foods are:")
+friend_foods.append('ice cream')
 print(friend_foods)
