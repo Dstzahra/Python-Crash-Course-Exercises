@@ -10,7 +10,7 @@ This repository contains my personal solutions and practice code from the book *
 - [x] Chapter 01: Getting Started
 - [x] Chapter 02: Variables and Simple Data Types
 - [x] Chapter 03: Introducing Lists
-- [ ] Chapter 04: Working with Lists
+- [x] Chapter 04: Working with Lists
 - [ ] Chapter 05: If Statements
 - [ ] Chapter 06: Dictionaries
 - [ ] Chapter 07: User Input and while Loops
