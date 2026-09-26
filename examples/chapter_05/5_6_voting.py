@@ -14,3 +14,4 @@ age = 19
 # Check whether the person is at least 18 years old.
 if age >= 18:
     print("You are old enough to vote!")
+    print("Have you registered to vote yet?")
