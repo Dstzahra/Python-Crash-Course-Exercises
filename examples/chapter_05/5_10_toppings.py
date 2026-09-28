@@ -18,3 +18,10 @@ if 'mushrooms' in requested_toppings:
 # Check whether pepperoni was requested.
 if 'pepperoni' in requested_toppings:
     print("Adding pepperoni.")
+
+# Check whether extra cheese was requested.
+if 'extra cheese' in requested_toppings:
+    print("Adding extra cheese.")
+
+# Display a message when the pizza is finished.
+print("\nFinished making your pizza!")
